@@ -1,9 +1,23 @@
 require 'sinatra/base'
-require 'sinatra/reloader'
+require "sinatra/reloader"
 
 class Battle < Sinatra::Base
-  get '/' do
+  configure :development do
+    register Sinatra::Reloader
+  end
+
+  get '/testing' do
     "Testing infrastructure working!"
+  end
+
+  get '/' do
+    erb :index
+  end
+
+  post '/names' do
+    @player1 = params[:Player1]
+    @player2 = params[:Player2]
+    erb :play
   end
 end
 
