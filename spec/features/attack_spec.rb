@@ -7,3 +7,12 @@ feature "confirm attack" do
     expect(page).to have_content "Ewa attacked Delia"
   end
 end
+
+feature "reduce Player 2 points" do
+  scenario "attack reduces player 2 points" do
+    sign_in_and_play
+    click_link 'Attack'
+    expect(page).not_to have_content "Delia: 50HP"
+    expect(page).to have_content "Delia: 40HP"
+  end
+end
