@@ -1,4 +1,4 @@
-require './battle_app'
+require "./battle_app"
 
 feature "player names" do
   scenario "asks players to submit form with names" do
