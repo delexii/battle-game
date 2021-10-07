@@ -17,7 +17,7 @@ class Player
   end
 
   def attack(name)
-    damage
+    name.damage
   end
 
   def damage

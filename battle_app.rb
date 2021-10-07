@@ -34,7 +34,6 @@ class Battle < Sinatra::Base
     @Player1 = $Player1
     @Player2 = $Player2
     @Player1.attack(@Player2)
-    @Player2.damage
     erb :attack
   end
 end
