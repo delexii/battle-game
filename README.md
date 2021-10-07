@@ -52,9 +52,9 @@ Ruby version: 3.0
 - [x] Attacking Player 2
 - [x] Extracting Logic to the Model
 - [x] Implementing Hit Points
-- [ ] Single Responsibility Principle, anyone?
-- [ ] Skinny Controllers
-- [ ] Switching Turns
+- [x] Single Responsibility Principle, anyone?
+- [x] Skinny Controllers
+- [x] Switching Turns
 - [ ] Multiplayer
 - [ ] Losing and Winning
 - [ ] Killing the Global Variable
