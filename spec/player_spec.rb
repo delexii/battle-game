@@ -14,10 +14,6 @@ describe Player do
     expect(delia.initial_hit_points).to eq hit_points
   end
 
-  it "reduces hit points after attack" do
-    ewa.attack(delia)
-    expect { delia.damage }.to change { delia.hit_points }.by (-10)
-  end
 end
 
 
