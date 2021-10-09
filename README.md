@@ -4,9 +4,9 @@
 
 - [x] a simple project that uses HTTP, Sinatra and Capybara
 
-
 ## Demo
-![Demo Video](https://github.com/delexii/battle-game/issues/1#issue-1021776945)
+
+![Demo Video](https://gifs.com/gif/battle-game-369pKx)
 
 ## Key learning objectives:
 
@@ -62,4 +62,3 @@ Ruby version: 3.0
 - [ ] Multiplayer
 - [ ] Losing and Winning
 - [ ] Killing the Global Variable
-
