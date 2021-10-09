@@ -6,7 +6,7 @@
 
 
 ## Demo
-![Demo Video](https://user-images.githubusercontent.com/78110998/136670419-f9e97baa-4875-4657-a3bb-d7e3be136583.mov)
+![Demo Video](https://github.com/delexii/battle-game/issues/1#issue-1021776945)
 
 ## Key learning objectives:
 
