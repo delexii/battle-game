@@ -4,6 +4,10 @@
 
 - [x] a simple project that uses HTTP, Sinatra and Capybara
 
+
+## Demo
+![Demo Video](https://user-images.githubusercontent.com/78110998/136670419-f9e97baa-4875-4657-a3bb-d7e3be136583.mov)
+
 ## Key learning objectives:
 
 - [x] Test-drive a simple Sinatra app
@@ -58,3 +62,4 @@ Ruby version: 3.0
 - [ ] Multiplayer
 - [ ] Losing and Winning
 - [ ] Killing the Global Variable
+
