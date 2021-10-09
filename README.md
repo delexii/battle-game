@@ -6,7 +6,7 @@
 
 ## Demo
 
-![Demo Video](https://gifs.com/gif/battle-game-369pKx)
+<div style='position:relative;padding-bottom:171.429%;'><iframe src="//gifs.com/embed/battle-game-369pKx" frameborder="0" scrolling="no" width="329" height="564" style="backface-visibility: hidden; transform: scale(1); position: absolute; height: 100%; width: 100%;"></iframe></div>
 
 ## Key learning objectives:
 
