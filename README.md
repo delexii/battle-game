@@ -6,7 +6,7 @@
 
 ## Demo
 
-<div style='position:relative;padding-bottom:171.429%;'><iframe src="//gifs.com/embed/battle-game-369pKx" frameborder="0" scrolling="no" width="329" height="564" style="backface-visibility: hidden; transform: scale(1); position: absolute; height: 100%; width: 100%;"></iframe></div>
+![Battle Game Demo](https://res.cloudinary.com/delexii/video/upload/v1633806075/Battle%20Game%20Demo.mov)
 
 ## Key learning objectives:
 
