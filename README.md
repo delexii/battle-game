@@ -6,7 +6,7 @@
 
 ## Demo
 
-![Battle Game Demo](https://res.cloudinary.com/delexii/video/upload/v1633806075/Battle%20Game%20Demo.mov)
+https://user-images.githubusercontent.com/78110998/136671170-35f9683f-0bd1-445a-8a6b-44b1793729cd.mov
 
 ## Key learning objectives:
 
